@@ -1,3 +1,7 @@
+FROM CHATGPT : defining the scope of the project adn the high level overview 
+
+
+
 To provide a comprehensive understanding of how your project will link with kdb+, let's map out the overall architecture and the role of each component in your order book system, emphasizing the integration with kdb+.
 
 Project Scope and Architecture
